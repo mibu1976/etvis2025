@@ -1,0 +1,711 @@
+@article{Adhanom:23,
+  author       = {Isayas B. Adhanom and
+                  Paul MacNeilage and
+                  Eelke Folmer},
+  title        = {Eye tracking in virtual reality: a broad review of applications and challenges},
+  journal      = {Virtual Reality},
+  volume       = {27},
+  number       = {2},
+  pages        = {1481--1505},
+  year         = {2023},
+  doi          = {10.1007/s10055-022-00738-z}
+}
+
+@article{Andrienko:12,
+  author       = {Gennady L. Andrienko and
+                  Natalia V. Andrienko and
+                  Michael Burch and
+                  Daniel Weiskopf},
+  title        = {Visual analytics methodology for eye movement studies},
+  journal      = {{IEEE} Transactions on Visualization and Computer Graphics},
+  volume       = {18},
+  number       = {12},
+  pages        = {2889--2898},
+  year         = {2012},
+  doi          = {10.1109/TVCG.2012.276}
+}
+
+@inproceedings{Asish:24,
+  author       = {Sarker M. Asish and
+                  Roberto E. Salazar and
+                  Arun K. Kulshreshth},
+  title        = {Effectiveness of visual acuity tests in {VR} vs the real-world},
+  booktitle    = {Proceedings of the {IEEE} Conference on Virtual Reality and 3D User Interfaces Abstracts
+                  and Workshops (VRW)},
+  pages        = {693--694},
+  publisher    = {{IEEE}},
+  address      = {Los Alamitos, CA, USA},
+  year         = {2024},
+  doi          = {10.1109/VRW62533.2024.00143}
+}
+
+@article{Beck_CGF:17,
+  author       = {Fabian Beck and
+                  Michael Burch and
+                  Stephan Diehl and
+                  Daniel Weiskopf},
+  title        = {A Taxonomy and Survey of Dynamic Graph Visualization},
+  journal      = {Computer Graphics Forum},
+  volume       = {36},
+  number       = {1},
+  pages        = {133--159},
+  year         = {2017}
+}
+
+@book{Bergstrom:14,
+  title = {Eye Tracking in User Experience Design},
+  editor = {Jennifer Romano Bergstrom and Andrew J. Schall},
+  publisher = {Morgan Kaufmann},
+  isbn = {012408138X},
+  year = {2014},
+  address = {Waltham, MA, USA},
+  doi = {10.1016/C2012-0-06867-6}
+}
+
+@inproceedings{Blascheck_BDVA:15,
+  author       = {Tanja Blascheck and
+                  Michael Burch and
+                  Michael Raschke and
+                  Daniel Weiskopf},
+  title        = {Challenges and perspectives in big eye-movement data visual analytics},
+  booktitle    = {Proceedings of the International Symposium on Big Data Visual Analytics},
+  series = {BDVA},
+  pages        = {17--24},
+  publisher    = {{IEEE}},
+  address      = {Los Alamitos, CA, USA},
+  year         = {2015},
+  doi          = {10.1109/BDVA.2015.7314288}
+}
+
+@article{Blascheck_CGF:17,
+  author       = {Tanja Blascheck and
+                  Kuno Kurzhals and
+                  Michael Raschke and
+                  Michael Burch and
+                  Daniel Weiskopf and
+                  Thomas Ertl},
+  title        = {Visualization of eye tracking data: {A} taxonomy and survey},
+  journal      = {Computer Graphics Forum},
+  volume       = {36},
+  number       = {8},
+  pages        = {260--284},
+  year         = {2017},
+  doi          = {10.1111/cgf.13079}
+}
+
+@inproceedings{Bojko:04,
+  author = {Agnieszka Bojko},
+  title = {Eye Tracking in User Experience Testing: How to Make the Most of It},
+  booktitle = {Proceedings of the Usability Professionals Association (UPA) Conference},
+  year = {2004}
+}
+
+@article{Bojko:09,
+  author = {Agnieszka Bojko and Kristin Adamczyk},
+  title = {More Than Just Eye Candy: Top Ten Misconceptions About Eye Tracking},
+  journal = {User Experience},
+  volume = {9},
+  number = {3},
+  year = {2009}
+}
+
+@book{Bojko:13,
+  author = {Aga Bojko},
+  title = {Eye Tracking the User Experience: A Practical Guide to Research},
+  publisher = {Rosenfeld Media},
+  isbn = {193382010},
+  year = {2013}
+}
+
+@article{Burch_TVCG:11,
+  author       = {Michael Burch and
+                  Natalia Konevtsova and
+                  Julian Heinrich and
+                  Markus H{\"{o}}ferlin and
+                  Daniel Weiskopf},
+  title        = {Evaluation of traditional, orthogonal, and radial tree diagrams by
+                  an eye tracking study},
+  journal      = {{IEEE} Transactions on Visualization and Computer Graphics},
+  volume       = {17},
+  number       = {12},
+  pages        = {2440--2448},
+  year         = {2011},
+  doi          = {10.1109/TVCG.2011.193}
+}
+
+@inproceedings{Burch:17,
+  author       = {Michael Burch},
+  title        = {Mining and visualizing eye movement data},
+  booktitle    = {Proceedings of the SIGGRAPH Asia 2017 Symposium on Visualization},
+  series       = {SA '17},
+  articleno    = {3},
+  numpages     = {8},
+  pages_       = {3:1--3:8},
+  publisher    = {{ACM}},
+  address      = {New York, NY, USA},
+  year         = {2017},
+  doi          = {10.1145/3139295.3139304}
+}
+
+@book{Burch_River:22,
+  author = {Michael Burch},
+  title = {Eye Tracking and Visual Analytics},
+  publisher = {River Publishers},
+  year = {2021},
+  isbn = {978-8770224338},
+  address = {Gistrup, Denmark}
+}
+
+@article{Burch:24,
+  author       = {Michael Burch and
+                  Marco Lemmenmeier and
+                  Robert Ospelt and
+                  Zilka Bajraktarevic},
+  title        = {Visually encoding orthogonal planar graph drawings as graph mazes:
+                  An eye tracking study},
+  journal      = {Information Visualization},
+  volume       = {23},
+  number       = {4},
+  pages        = {404--417},
+  year         = {2024},
+  doi          = {10.1177/14738716241255598}
+}
+
+@article{Carter:20,
+  author = {Benjamin T. Carter and Steven G. Luke},
+  title = {Best practices in eye tracking},
+  journal = {International Journal of Psychophysiology},
+  volume = {155},
+  pages = {49--62},
+  year = {2020},
+  doi  = {10.1016/j.ijpsycho.2020.05.010}
+}
+
+@book{Duchowski:02,
+  author       = {Andrew T. Duchowski},
+  title        = {Eye Tracking Methodology: Theory and Practice},
+  publisher    = {Springer International Publishing},
+  address      = {Cham, Switzerland},
+  year         = {2017},
+  edition      = {3rd},
+  doi          = {10.1007/978-3-319-57883-5},
+  isbn_         = {978-1-85233-666-0}
+}
+
+@article{Dunn:23,
+  author = {Matt J. Dunn and Robert G. Alexander and Onyekachukwu M. Amiebenomo and Gemma Arblaster and Denize Atan and Jonathan T. Erichsen and Ulrich Ettinger and Mario E. Giardini and Iain D. Gilchrist and Ruth Hamilton and Roy S. Hessels and Scott Hodgins and Ignace T. C. Hooge and Brooke S. Jackson and Helena Lee and Stephen L. Macknik and Susana Martinez-Conde and Lee Mcilreavy and Lisa M. Muratori and Diederick C. Niehorster and Marcus Nyström and Jorge Otero-Millan and Michael M. Schlüssel and Jay E. Self and Tarkeshwar Singh and Nikolaos Smyrnis and Andreas Sprenger},
+  title = {Minimal reporting guideline for research involving eye tracking}, 
+  journal = {Behavior Research Methods},
+  volume = {56},
+  pages = {4351--4357},
+  year = {2023},
+  doi = {10.3758/s13428-023-02187-1}
+}
+
+@inproceedings{Fahl:13,
+  author       = {Sascha Fahl and
+                  Marian Harbach and
+                  Yasemin Acar and
+                  Matthew Smith},
+  editor_       = {Lujo Bauer and
+                  Konstantin Beznosov and
+                  Lorrie Faith Cranor},
+  title        = {On the ecological validity of a password study},
+  booktitle    = {Proceedings of the Symposium On Usable Privacy and Security},
+  series = {SOUPS},
+  articleno = {13},
+  numpages = {13},
+  publisher    = {{ACM}},
+  address = {New York, NY, USA},
+  year         = {2013},
+  doi = {10.1145/2501604.2501617}
+}
+
+@incollection{Fiedler:19,
+  author = {Susann Fiedler and Michael Schulte-Mecklenbeck and Frank Renkewitz and Jacob L. Orquin},
+  title = {Increasing reproducibility of eye-tracking studies},
+  booktitle = {A Handbook of Process Tracing Methods},
+  editor = {Michael Schulte-Mecklenbeck and Anton K{\"u}hberger and Joseph G. Johnson},
+  publisher = {Routledge},
+  address = {New York, NY, USA},
+  year = {2019},
+  pages = {65-75},
+  edition = {2nd},
+  doi = {10.4324/9781315160559}
+}
+
+@misc{Fiedler:20,
+  author = {Susann Fiedler and Michael Schulte-Mecklenbeck and Frank Renkewitz and Jacob L. Orquin},
+  title = {Guideline for reporting standards of eye-tracking research in decision sciences},
+  year = {2020},
+  note ={PsyArXiv},
+  doi = {10.31234/osf.io/f6qcy}
+}
+
+
+@inproceedings{Fu:24,
+  author       = {Bo Fu and
+                  Peter Gatsby and
+                  Angelo Ryan Soriano and
+                  Kayla Chu and
+                  Nicolas Guardado Guardado},
+  editor       = {Alan J. Dix and
+                  Matt J. Roach and
+                  Tommaso Turchi and
+                  Alessio Malizia and
+                  Ben Wilson},
+  title        = {Towards Intelligent Flight Deck -- {A} Preliminary Study of Applied
+                  Eye Tracking in The Predictions of Pilot Success and Failure During
+                  Simulated Flight Takeoff},
+  booktitle    = {Proceedings of the 1st International Workshop on Designing and Building
+                  Hybrid Human-AI Systems co-located with 17th International Conference
+                  on Advanced Visual Interfaces, {AVI}},
+  series       = {{CEUR} Workshop Proceedings},
+  volume       = {3701},
+  publisher    = {CEUR-WS.org},
+  year         = {2024}
+}
+
+@inproceedings{Garkov:22,
+  author       = {Dimitar Garkov and
+                  Christoph M{\"{u}}ller and
+                  Matthias Braun and
+                  Daniel Weiskopf and
+                  Falk Schreiber},
+  title        = {Research data curation in visualization: Position paper},
+  booktitle    = {Proceedings of the {IEEE} Workshop on Evaluation and Beyond -- Methodological Approaches for Visualization},
+  series       = {BELIV},
+  pages        = {56--65},
+  publisher    = {{IEEE}},
+  address      = {Los Alamitos, CA, USA},
+  year         = {2022},
+  doi          = {10.1109/BELIV57783.2022.00011}
+}
+
+@article{Godfroid:20,
+  author = {Aline Godfroid and Bronson Hui},
+  title = {Five common pitfalls in eye-tracking research},
+  journal = {Second Language Research},
+  volume = {36},
+  number = {3},
+  year = {2020},
+  pages = {277-305},
+  doi = {10.1177/0267658320921218}
+}
+
+
+@incollection{Goldberg:02,
+  author = {Joseph H. Goldberg and Anna M. Wichansky},
+  title = {Eye tracking in usability evaluation: A practicioner's guide},
+  booktitle = {The Mind's Eyes: Cognitive and Applied Aspects of Eye Movements},
+  editor = {Jukka Hyönä and Ralph Radach and Heiner Deubel},
+  publisher = {North-Holland},
+  address = {Amsterdam, Netherlands},
+  pages = {493-516},
+  year = {2003},
+  doi = {10.1016/B978-044451020-4/50027-X}
+}
+
+@article{Gressel:23,
+  author       = {C{\'{e}}line Gressel and
+                  Rebekah Overdorf and
+                  Inken Hagestedt and
+                  Murat Karaboga and
+                  Helmut Lurtz and
+                  Michael Raschke and
+                  Andreas Bulling},
+  title        = {Privacy-aware eye tracking: Challenges and future directions},
+  journal      = {{IEEE} Pervasive Computing},
+  volume       = {22},
+  number       = {1},
+  pages        = {95--102},
+  year         = {2023},
+  doi          = {10.1109/MPRV.2022.3228660}
+}
+
+@book{Holmqvist:11,
+  author       = {Kenneth Holmqvist and Marcus Nystr{\"o}m and Richard Andersson and Richard Dewhurst and Jarodzka Halszka and {van de Weijer}, Joost},
+  title        = {Eye Tracking: A Comprehensive Guide to Methods and Measures},
+  publisher    = {Oxford University Press},
+  address      = {Oxford, UK},
+  year         = {2011},
+  isbn         = {0199697086}
+}
+
+@article{Karatekin:07,
+  author = {Canan Karatekin},
+  title = {Eye tracking studies of normative and atypical development},
+  journal = {Developmental Review},
+  volume = {27},
+  number = {3},
+  pages = {283--348},
+  year = {2007},
+  doi = {10.1016/j.dr.2007.06.006}
+}
+
+@misc{Kasneci:24,
+  author       = {Enkelejda Kasneci and
+                  Hong Gao and
+                  S{\"{u}}leyman {\"{O}}zdel and
+                  Virmarie Maquiling and
+                  Enkeleda Thaqi and
+                  Ka Hei Carrie Lau and
+                  Yao Rong and
+                  Gjergji Kasneci and
+                  Efe Bozkir},
+  title        = {Introduction to eye tracking: {A} hands-on tutorial for students and
+                  practitioners},
+      year={2024},
+      eprint={2404.15435},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+  doi          = {https://doi.org/10.48550/arXiv.2404.15435}
+}
+
+@article{Kaufmann:21,
+  author       = {Katja Kaufmann and
+                  Tabea Bork{-}H{\"{u}}ffer and
+                  Niklas Gudowsky and
+                  Marjo Rauhala and
+                  Martin Rutzinger},
+  title        = {Ethical challenges of researching emergent socio-material-technological
+                  phenomena: insights from an interdisciplinary mixed-methods project
+                  using mobile eye-tracking},
+  journal      = {Journal of Information, Communication and Ethics in Society},
+  volume       = {19},
+  number       = {3},
+  pages        = {391--408},
+  year         = {2021},
+  doi          = {10.1108/JICES-01-2021-0007}
+}
+
+@incollection{Keim:08,
+  author       = {Daniel A. Keim and
+                  Florian Mansmann and
+                  J{\"{o}}rn Schneidewind and
+                  James J. Thomas and
+                  Hartmut Ziegler},
+  editor       = {Simeon J. Simoff and
+                  Michael H. B{\"{o}}hlen and
+                  Arturas Mazeika},
+  title        = {Visual analytics: Scope and challenges},
+  booktitle    = {Visual Data Mining: Theory, Techniques and Tools for Visual Analytics},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {4404},
+  pages        = {76--90},
+  publisher    = {Springer-Verlag},
+  address      = {Berlin, Heidelberg, Germany},
+  year         = {2008},
+  doi          = {10.1007/978-3-540-71080-6_6}
+}
+
+@inproceedings{Kurzhals:14,
+  author       = {Kuno Kurzhals and
+                  Cyrill F. Bopp and
+                  Jochen B{\"{a}}ssler and
+                  Felix Ebinger and
+                  Daniel Weiskopf},
+  editor_       = {Heidi Lam and
+                  Petra Isenberg and
+                  Tobias Isenberg and
+                  Michael Sedlmair},
+  title        = {Benchmark data for evaluating visualization and analysis techniques
+                  for eye tracking for video stimuli},
+  booktitle    = {Proceedings of the Fifth Workshop on Beyond Time and Errors: Novel
+                  Evaluation Methods for Visualization},
+  series = {BELIV},
+  pages        = {54--60},
+  publisher    = {{ACM}},
+  address = {New York, NY, USA},
+  year         = {2014},
+  doi          = {10.1145/2669557.2669558}
+}
+
+@phdthesis{Larsson:16,
+  author       = {Linn{\'{e}}a Larsson},
+  title        = {Event Detection in Eye-Tracking Data for Use in Applications with
+                  Dynamic Stimuli},
+  school       = {Lund University, Sweden},
+  year         = {2016}
+}
+
+@inproceedings{Luong:22,
+  author       = {Tiffany Luong and
+                  Ad{\'{e}}la Plechat{\'{a}} and
+                  Max M{\"{o}}bus and
+                  Michael Atchapero and
+                  Robert B{\"{o}}hm and
+                  Guido Makransky and
+                  Christian Holz},
+  editor_       = {Henry B. L. Duh and
+                  Ian Williams and
+                  Jens Grubert and
+                  J. Adam Jones and
+                  Jianmin Zheng},
+  title        = {Demographic and behavioral correlates of cybersickness: {A} large
+                  lab-in-the-field study of 837 participants},
+  booktitle    = {Proceedings of the {IEEE} International Symposium on Mixed and Augmented Reality},
+  series = {ISMAR},
+  pages        = {307--316},
+  publisher    = {{IEEE}},
+  address      = {Los Alamitos, CA, USA},
+  year         = {2022},
+  doi          = {10.1109/ISMAR55827.2022.00046}
+}
+
+@article{Mao:21,
+  author       = {Runze Mao and
+                  Guoyuan Li and
+                  Hans Petter Hildre and
+                  Houxiang Zhang},
+  title        = {A survey of eye tracking in automobile and aviation studies: Implications for eye-tracking studies in marine operations},
+  journal      = {{IEEE} Transactions on Human-Machine Systems},
+  volume       = {51},
+  number       = {2},
+  pages        = {87--98},
+  year         = {2021},
+  doi          = {10.1109/THMS.2021.3053196}
+}
+
+@article{Munoz:22,
+  author = {Francisco Muñoz-Leiva and María Eugenia Rodríguez-Lópeza and Bárbara García-Martíb},
+  title = {Discovering prominent themes of the application of eye tracking technology in marketing research},
+  journal = {Management Letters},
+  volume = {21},
+  number = {2},
+  year = {2022},
+  doi = {10.5295/cdg.211516fm}
+}
+
+@inproceedings{Nazareth:21,
+  author       = {Roland Nazareth and
+                  Jung Hyup Kim},
+  editor       = {Constantine Stephanidis and
+                  Margherita Antona and
+                  Stavroula Ntoa},
+  title        = {Comparing the accuracy and precision of eye tracking devices in different
+                  monitoring environments},
+  booktitle    = {HCI International 2021 -- Posters},
+  series       = {Communications in Computer and Information Science},
+  volume       = {1420},
+  pages        = {113--120},
+  publisher    = {Springer International Publishing},
+  address      = {Cham, Switzerland},
+  year         = {2021},
+  doi          = {10.1007/978-3-030-78642-7_16}
+}
+
+
+
+@article{Netzel:17,
+  author       = {Rudolf Netzel and
+                  Bettina Ohlhausen and
+                  Kuno Kurzhals and
+                  Robin Woods and
+                  Michael Burch and
+                  Daniel Weiskopf},
+  title        = {User performance and reading strategies for metro maps: An eye tracking
+                  study},
+  journal      = {Spatial Cognition and Computation},
+  volume       = {17},
+  number       = {1-2},
+  pages        = {39--64},
+  year         = {2017},
+  doi          = {10.1080/13875868.2016.1226839}
+}
+
+@phdthesis{Peikert:23,
+  author       = {Aaron Peikert},
+  title        = {Towards Transparency and Open Science {(A} Principled Perspective
+                  on Computational Reproducibility and Preregistration)},
+  school       = {{HU} Berlin, Germany},
+  year         = {2023}
+}
+
+@misc{Pernice:09,
+  author = {Kara Pernice and Jakob Nielsen},
+  title = {How to Conduct Eyetracking Studies},
+  bootitle = {Nielsen Norman Group Technical Report},
+  year = {2009},
+  url = {http://www.nngroup.com/reports/how-to-conduct-eyetracking-studies/}
+}
+
+@misc{Poole:05,
+  author = {Alex Poole and Linden J. Ball},
+  title = {Eye tracking in human-computer interaction and usability research: Current status and future},
+  booktitle = {Prospects, Chapter in C.},
+  year = {2005}
+}
+
+@misc{Qaiser:17,
+  author       = {Abu Zohran Qaiser and
+                  Muhammad Taha Khan},
+  title        = {Adaptive interface for accommodating colour-blind users by using Ishihara
+                  test},
+  year={2017},
+  eprint={1712.03329},
+  archivePrefix={arXiv},
+  primaryClass={cs.HC},
+  doi ={10.48550/arXiv.1712.03329},
+}
+
+
+
+@inproceedings{Richard:22,
+  author       = {Gr{\'{e}}goire Richard and
+                  Thomas Pietrzak and
+                  Ferran Argelaguet and
+                  Anatole L{\'{e}}cuyer and
+                  G{\'{e}}ry Casiez},
+  title        = {Within or between? Comparing experimental designs for virtual embodiment
+                  studies},
+  booktitle    = {Proceedings of the {IEEE} Conference on Virtual Reality and 3D User Interfaces},
+  series = {VR},
+  pages        = {186--195},
+  publisher    = {{IEEE}},
+  address      = {Los Alamitos, CA, USA},
+  year         = {2022},
+  doi          = {10.1109/VR51125.2022.00037}
+}
+
+@article{Ruppenthal:24,
+  author       = {Tonia Ruppenthal and
+                  Nils Schweers},
+  title        = {Eye Tracking as an Instrument in Consumer Research to Investigate Food from {A} Marketing Perspective: {A} Bibliometric and Visual Analysis},
+  journal      = {Journal of Theoretical and Applied Electronic Commerce Research},
+  volume       = {19},
+  number       = {2},
+  pages        = {1095--1117},
+  year         = {2024}
+}
+
+@inproceedings{Salvucci:00,
+  author       = {Dario D. Salvucci and
+                  Joseph H. Goldberg},
+  editor       = {Andrew T. Duchowski},
+  title        = {Identifying fixations and saccades in eye-tracking protocols},
+  booktitle    = {Proceedings of the Eye Tracking Research {\&} Application Symposium, {ETRA}},
+  pages        = {71--78},
+  publisher    = {{ACM}},
+  year         = {2000}
+}
+
+@inproceedings{Schulz_ETVIS:15,
+  author       = {Christoph Schulz and
+                  Michael Burch and
+                  Fabian Beck and
+                  Daniel Weiskopf},
+  editor       = {Michael Burch and
+                  Lewis L. Chuang and
+                  Brian D. Fisher and
+                  Albrecht Schmidt and
+                  Daniel Weiskopf},
+  title        = {Visual data cleansing of low-level eye-tracking data},
+  booktitle    = {Eye Tracking and Visualization: Foundations, Techniques, and Applications. ETVIS 2015},
+  series_       = {Mathematics and Visualization},
+  pages        = {199--216},
+  publisher    = {Springer International Publishing},
+  address      = {Cham, Switzerland},
+  year         = {2017},
+  doi          = {10.1007/978-3-319-47024-5_12}
+}
+
+@inproceedings{Schulz:16,
+  author       = {Christoph Schulz and
+                  Arlind Nocaj and
+                  Mennatallah El{-}Assady and
+                  Steffen Frey and
+                  Marcel Hlawatsch and
+                  Michael Hund and
+                  Grzegorz Karol Karch and
+                  Rudolf Netzel and
+                  Christin Sch{\"{a}}tzle and
+                  Miriam Butt and
+                  Daniel A. Keim and
+                  Thomas Ertl and
+                  Ulrik Brandes and
+                  Daniel Weiskopf},
+  title        = {Generative data models for validation and evaluation of visualization
+                  techniques},
+  booktitle    = {Proceedings of the Sixth Workshop on Beyond Time and Errors on Novel
+                  Evaluation Methods for Visualization},
+  series       = {BELIV},
+  pages        = {112--124},
+  publisher    = {{ACM}},
+  address = {New York, NY, USA},
+  year         = {2016},
+  doi          = {10.1145/2993901.2993907},
+}
+
+@article{Sharafi:20,
+  author       = {Zohreh Sharafi and
+                  Bonita Sharif and
+                  Yann{-}Ga{\"{e}}l Gu{\'{e}}h{\'{e}}neuc and
+                  Andrew Begel and
+                  Roman Bednarik and
+                  Martha E. Crosby},
+  title        = {A practical guide on conducting eye tracking studies in software engineering},
+  journal      = {Empirical Software Engineering},
+  volume       = {25},
+  number       = {5},
+  pages        = {3128--3174},
+  year         = {2020},
+  doi          = {10.1007/s10664-020-09829-4}
+}
+
+@inproceedings{Strandvall:09,
+  author = {Tommy Strandvall},
+  title = {Eye Tracking in Human-Computer Interaction and Usability Research},
+  booktitle = {Proceedings of the International Conference on Human-Computer Interaction, {INTERACT}},
+  year = {2009}
+}
+
+@article{Truong:14,
+  author       = {Khai N. Truong},
+  title        = {When is too few too bad: How many participants should a user study
+                  have?},
+  journal      = {GetMobile: Mobile Computing and Communications},
+  volume       = {18},
+  number       = {4},
+  pages        = {32--36},
+  year         = {2014},
+  doi = {10.1145/2721914.2721925}
+}
+
+@inproceedings{Wang:23,
+  author       = {Min Wang and
+                  Zhengyan Zhu and
+                  Zhihai Zhang},
+  title        = {An analysis of the methodology and validation of the design and presentation
+                  of stimulus materials for eye-tracking experiments},
+  booktitle    = {Proceedings of the 5th International Conference on Internet of Things,
+                  Automation and Artificial Intelligence}, 
+  series       = {IoTAAI},
+  pages        = {387--392},
+  publisher    = {{ACM}},
+  address = {New York, NY, USA},
+  year         = {2023},
+  doi = {10.1145/3653081.3653146}
+}
+
+@inproceedings{Weiskopf:24,
+  author       = {Daniel Weiskopf},
+  title        = {Bridging quantitative and qualitative methods for visualization research:
+                  {A} data/semantics perspective in light of advanced {AI}},
+  booktitle      = {Proceedings of the {IEEE} Workshop on Evaluation and Beyond -- Methodological Approaches for Visualization},
+  series       = {BELIV},
+  year         = {2024},
+  pages        = {119--128},
+  publisher    = {{IEEE}},
+  address      = {Los Alamitos, CA, USA},
+  doi          = {10.1109/BELIV64461.2024.00019},
+}
+
+@book{Yarbus:67,
+  author    = {Alfred L. Yarbus},
+  title     = {Eye Movements and Vision},
+  publisher = {Springer},
+  year      = {1967},
+  address   = {New York, NY, USA},
+  isbn      = {978-1-4899-5381-0}
+}
