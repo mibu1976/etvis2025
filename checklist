@@ -1,0 +1,330 @@
+\begin{table*}
+    \centering
+     %\setlength{\leftmargini}{0.4cm}
+         \caption{\label{Checklist:Tab} Elements of the three phases model for eye tracking studies: Preparation phase (before), execution phase (during), and evaluation phase (after). Each phase consists of (more or less) chronologically ordered required elements.}
+    \begin{tabular}{p{5.2cm}p{5.2cm}p{5.2cm}} \bottomrule
+         \cellcolor{blue!30}\textbf{~Before} & \cellcolor{green!25} \textbf{~During} & \cellcolor{orange!25} \textbf{~After} \\ 
+        \toprule \vspace{-1ex}
+\scriptsize
+        \begin{enumerate}[label={$\square$}]
+            \item \textbf{Study/Topic Integration }
+            \begin{enumerate}[label={$\square$}]
+                \item Application Field
+                \item Research Question
+                \item Hypotheses
+            \end{enumerate}
+            
+            \item \textbf{Variables}
+            \begin{enumerate}[label={$\square$}]
+                \item Independent \hspace{1.5ex} $\square$ Dependent \hspace{1.5ex} $\square$ Confounding
+                %\item Dependent
+                %\item Confounding
+                \item Physiological Measures
+                \item Incidental Measures
+                \item Data Granularity
+            \end{enumerate}
+            
+            \item \textbf{Tasks}
+            \begin{enumerate}[label={$\square$}]
+                \item Task Types
+                \item Task Complexity
+                \item Task Instructions
+                \item Task Solution Time
+            \end{enumerate}
+            
+            \item \textbf{Stimuli}
+            \begin{enumerate}[label={$\square$}]
+                \item Real \hspace{2ex} $\square$ Artificial
+                %\item Artificial Stimuli
+                \item Static \hspace{2ex} $\square$ Dynamic \hspace{2ex} $\square$ Real-World
+                %\item Dynamic
+                \item Number \hspace{2ex} $\square$
+                Variation
+            \end{enumerate}
+            
+            \item \textbf{Design}
+            \begin{enumerate}[label={$\square$}]
+                \item Within Subject \hspace{2ex} $\square$  Between Subject
+                %\item Between Subject
+                \item Think Aloud \hspace{2ex} $\square$ Talk Aloud
+                %\item Talk Aloud
+                \item Experiment Blocks \hspace{2ex} $\square$ Pauses
+                \item Replication \hspace{0.8ex} $\square$ Permutation \hspace{0.8ex} $\square$ Randomization
+                %\item Randomization
+                \item Learning Effects \hspace{2ex} $\square$ Fatigue Effects
+                %\item Fatigue Effects
+            \end{enumerate}
+            
+            \item \textbf{Technology}
+           \begin{enumerate}[label={$\square$}]
+                \item Eye Tracking Device
+                \item Mobile \hspace{2ex} $\square$ Remote
+                %\item Remote
+                \item Display \hspace{2ex} $\square$ Sampling Frequency
+                \item Camera Resolution \hspace{2ex} $\square$ System Stability
+                \item Head Movement Restriction
+                \item Monocular \hspace{2ex} $\square$ Binocular
+                %\item Binocular
+                \item Data Recording
+            \end{enumerate}
+            
+            \item \textbf{Ethics Validation}
+            \begin{enumerate}[label={$\square$}]
+                \item Ethics Approval
+                \item Participant Consent
+                \item Data Security
+                \item Participant Privacy
+            \end{enumerate}
+            
+            \item \textbf{Forms and Documents}
+            \begin{enumerate}[label={$\square$}]
+                \item Tutorial 
+                \item Demographic Participant Information
+                \item Consent Form \hspace{2ex} $\square$
+                Questionnaire
+                \item Compensation Form
+                \item Ishihara Plates \hspace{2ex} $\square$ Snellen Chart
+                %\item Snellen Chart
+            \end{enumerate}
+            
+            \item \textbf{Location/Environment}
+            \begin{enumerate}[label={$\square$}]
+                \item Lab \hspace{2ex} $\square$ Field 
+                \item Crowdsourcing Environment
+                %\item Field
+            \end{enumerate}
+            
+            \item \textbf{Time Frame}
+            \begin{enumerate}[label={$\square$}]
+                \item Time Slots \hspace{2ex} $\square$ Experiment Duration
+                \item Study Days
+            \end{enumerate}
+            
+            \item \textbf{Participants}
+            \begin{enumerate}[label={$\square$}]
+                \item Gender and Diversity
+                \item Number of Participants
+                \item Extrinsic Trigger
+                \item Invitation Procedure
+                \item Experience Levels
+                \item Non-Human Participants
+            \end{enumerate}
+
+            \item \textbf{Preregistration}
+            \begin{enumerate}[label={$\square$}]
+                \item Repository \hspace{2ex} $\square$ Access
+                \item Data Outsourcing
+            \end{enumerate}
+            
+            \item \textbf{Pilot Study}
+            \begin{enumerate}[label={$\square$}]
+                \item Adaption Phase
+                \item Data Recording Check
+            \end{enumerate}
+        \end{enumerate} & 
+\scriptsize \vspace{-2ex}
+        \begin{enumerate}[label={$\square$}]
+        \item \textbf{Environment Preparation}
+        \begin{enumerate}[label={$\square$}]
+                \item Setup
+                \item Participant Orientation
+                \item Waiting Room
+                \item Natural Environment
+            \end{enumerate}
+            
+        \item \textbf{Showing Up}
+        \begin{enumerate}[label={$\square$}]
+                \item Pickup and Guiding
+                \item Operator Behavior
+                \item Number of Observers
+                \item Participant Cooperation
+            \end{enumerate}
+            
+        \item \textbf{Personal Details}
+        \begin{enumerate}[label={$\square$}]
+                \item Demographic Information
+                \item Consent Form
+                \item Native Language \hspace{2ex} $\square$ Alternative Language
+                %\item Alternative Language
+            \end{enumerate}
+            
+        \item \textbf{Adaptation}
+        \begin{enumerate}[label={$\square$}]
+                \item Study Details
+                \item Familiarity
+            \end{enumerate}
+            
+        \item \textbf{Tutorial}
+        \begin{enumerate}[label={$\square$}]
+                \item Minimal Study Information
+                \item On-screen Instructions
+                \item Verbal Explanation
+                \item Clarification Questions
+                \item Test Questions
+                \item Online Feedback
+            \end{enumerate}
+            
+        \item \textbf{Participant Influence}
+        \begin{enumerate}[label={$\square$}]
+                \item Visual Perception
+                \item Visual Deficiencies
+                \item Visual Acuity Problems
+                \item Physiological Impairment
+                \item Psychological Impairment
+                \item Anatomical Impairment
+                \item Disabilities \hspace{2ex} $\square$
+                Handicaps
+            \end{enumerate}
+            
+        \item \textbf{Calibration}
+        \begin{enumerate}[label={$\square$}]
+                \item Targets
+                \item Screen-Based \hspace{2ex} $\square$ Wearable Calibration
+                \item Validation Phase
+                \item Calibration Quality
+                \item Recalibration
+                \item Display Distance \hspace{2ex} $\square$ Head Position
+                \item Lighting Condition
+                \item Eye-Physiological Issues
+                \item Eye-Anatomical Issues
+                \item Artificially Created Eye Issues
+            \end{enumerate}
+            
+        \item \textbf{Practice Run}
+        \begin{enumerate}[label={$\square$}]
+                \item Final Test
+                \item Test Data
+            \end{enumerate}
+            
+        \item \textbf{Experiment}
+        \begin{enumerate}[label={$\square$}]
+                \item Study Progress
+                \item Comprehensive Notes
+                \item Interventions
+                \item Give-Up Option
+            \end{enumerate}
+            
+        \item \textbf{Open-Ended Questions}
+        \begin{enumerate}[label={$\square$}]
+                \item After-Experiment Questions
+                \item Interview
+            \end{enumerate}
+            
+        \item \textbf{Feedback}
+        \begin{enumerate}[label={$\square$}]
+                \item Identified Problems
+                \item Study Improvements
+                \item Preliminary Study Results
+            \end{enumerate}
+            
+        \item \textbf{Payment}
+        \begin{enumerate}[label={$\square$}]
+                \item Rewards \hspace{2ex} $\square$
+                Signed Reception Form
+                \item Gratitude
+            \end{enumerate}
+        
+        \end{enumerate}
+        & 
+\scriptsize \vspace{-2ex}
+        \begin{enumerate}[label={$\square$}]
+        \item \textbf{Data Access}
+        \begin{enumerate}[label={$\square$}]
+                \item Raw Eye Tracking Data
+                \item Incomplete Data \hspace{2ex} $\square$ Low-Quality Data
+                \item Installed Analysis Software
+                \item Local Data Copy
+                \item Data Formats
+            \end{enumerate}
+            
+        \item \textbf{Data Processing}
+        \begin{enumerate}[label={$\square$}]
+                \item Data Transformations
+                \item Data Cleansing
+                \item Invalid Data
+                \item Data Filtering
+                \item Feature Extraction 
+                \item Areas of Interest (AOIs)
+                \item Clusters
+                \item Correlations
+                \item Mining Rules
+                \item Data Dimensions
+            \end{enumerate}
+            
+        \item \textbf{Analysis Tools}
+        \begin{enumerate}[label={$\square$}]
+                \item Integrated Tools
+                \item External Tools
+                \item Data Analysis Tools
+                \item Visualization Tools
+                \item Statistics Tools
+            \end{enumerate}
+            
+        \item \textbf{Statistics}
+        \begin{enumerate}[label={$\square$}]
+                \item Statistical Tests
+                \item Statistical Significance
+                \item Value Distributions
+            \end{enumerate}
+            
+        \item \textbf{Visualizations}
+        \begin{enumerate}[label={$\square$}]
+                \item Statistical Visualizations
+                \item Point-Based Visualizations
+                \item Region-Based Visualizations
+                \item Human-Computer Interaction
+                \item Visual Analytics
+            \end{enumerate}
+
+        \item \textbf{Advanced Algorithms}
+        \begin{enumerate}[label={$\square$}]
+                \item Deep Learning
+                \item Scanpath Alignment
+                \item Average Scanpath
+                \item Dimensionality Reduction
+            \end{enumerate}    
+            
+        \item \textbf{Initial Findings}
+        \begin{enumerate}[label={$\square$}]
+                \item Patterns
+                \item Rules
+                \item Anomalies
+            \end{enumerate}
+            
+        \item \textbf{Matching Research Question}
+        \begin{enumerate}[label={$\square$}]
+                \item Hypotheses Confirmation
+                \item Hypotheses Rejection
+            \end{enumerate}
+            
+        \item \textbf{Conclusion Drawing}
+        \begin{enumerate}[label={$\square$}]
+                \item Analytical Reasoning
+                \item Sense Making
+                \item Decision Making
+                \item Eye-Mind Hypothesis
+                \item Study Goals
+                \item Experimental Control
+                \item Ecological Validity
+            \end{enumerate}
+            
+        \item \textbf{Reporting and Dissemination}
+        \begin{enumerate}[label={$\square$}]
+                \item Scientific Paper
+                %\item Publication
+                \item Reproducibility
+                \item Presentation or Talk
+            \end{enumerate}
+            
+        \item \textbf{Open Data}
+        \begin{enumerate}[label={$\square$}]
+                \item Open Research Data
+                \item Data Curation and Sharing
+                \item Data Privacy and Ethics
+            \end{enumerate}
+            
+        \end{enumerate}
+        \\
+        \hline
+    \end{tabular}
+\end{table*}
