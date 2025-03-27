@@ -135,16 +135,14 @@ Participant Influence
    Visual Perception
    Visual Deficiencies
    Visual Acuity Problems
-                \item Physiological Impairment
-                \item Psychological Impairment
-                \item Anatomical Impairment
-                \item Disabilities \hspace{2ex} $\square$
-                Handicaps
-            \end{enumerate}
-            
-        \item \textbf{Calibration}
-        \begin{enumerate}[label={$\square$}]
-                \item Targets
+   Physiological Impairment
+   Psychological Impairment
+   Anatomical Impairment
+   Disabilities
+   Handicaps
+
+Calibration
+   Targets
                 \item Screen-Based \hspace{2ex} $\square$ Wearable Calibration
                 \item Validation Phase
                 \item Calibration Quality
