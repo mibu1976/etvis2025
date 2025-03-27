@@ -1,32 +1,22 @@
-\begin{table*}
-    \centering
-     %\setlength{\leftmargini}{0.4cm}
-         \caption{\label{Checklist:Tab} Elements of the three phases model for eye tracking studies: Preparation phase (before), execution phase (during), and evaluation phase (after). Each phase consists of (more or less) chronologically ordered required elements.}
-    \begin{tabular}{p{5.2cm}p{5.2cm}p{5.2cm}} \bottomrule
-         \cellcolor{blue!30}\textbf{~Before} & \cellcolor{green!25} \textbf{~During} & \cellcolor{orange!25} \textbf{~After} \\ 
-        \toprule \vspace{-1ex}
-\scriptsize
-        \begin{enumerate}[label={$\square$}]
-            \item \textbf{Study/Topic Integration }
-            \begin{enumerate}[label={$\square$}]
-                \item Application Field
-                \item Research Question
-                \item Hypotheses
-            \end{enumerate}
-            
-            \item \textbf{Variables}
-            \begin{enumerate}[label={$\square$}]
-                \item Independent \hspace{1.5ex} $\square$ Dependent \hspace{1.5ex} $\square$ Confounding
-                %\item Dependent
-                %\item Confounding
-                \item Physiological Measures
-                \item Incidental Measures
-                \item Data Granularity
-            \end{enumerate}
-            
-            \item \textbf{Tasks}
-            \begin{enumerate}[label={$\square$}]
-                \item Task Types
+Elements of the three phases model for eye tracking studies: Preparation phase (before), execution phase (during), and evaluation phase (after). Each phase consists of (more or less) chronologically ordered required elements.}
+
+Before
+
+Study/Topic Integration
+   Application Field
+   Research Question
+   Hypotheses
+   
+Variables
+   Independent
+   Dependent
+   Confounding
+   Physiological Measures
+   Incidental Measures
+   Data Granularity
+
+Tasks
+   Task Types
                 \item Task Complexity
                 \item Task Instructions
                 \item Task Solution Time
