@@ -114,6 +114,9 @@ Tasks
         \end{enumerate} & 
 \scriptsize \vspace{-2ex}
         \begin{enumerate}[label={$\square$}]
+
+During
+
         \item \textbf{Environment Preparation}
         \begin{enumerate}[label={$\square$}]
                 \item Setup
@@ -218,6 +221,10 @@ Tasks
         & 
 \scriptsize \vspace{-2ex}
         \begin{enumerate}[label={$\square$}]
+
+
+After
+
         \item \textbf{Data Access}
         \begin{enumerate}[label={$\square$}]
                 \item Raw Eye Tracking Data
