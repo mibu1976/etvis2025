@@ -45,72 +45,59 @@ Design
 
 Technology
    Eye Tracking Device
-                \item Mobile \hspace{2ex} $\square$ Remote
-                %\item Remote
-                \item Display \hspace{2ex} $\square$ Sampling Frequency
-                \item Camera Resolution \hspace{2ex} $\square$ System Stability
-                \item Head Movement Restriction
-                \item Monocular \hspace{2ex} $\square$ Binocular
-                %\item Binocular
-                \item Data Recording
-            \end{enumerate}
-            
-            \item \textbf{Ethics Validation}
-            \begin{enumerate}[label={$\square$}]
-                \item Ethics Approval
-                \item Participant Consent
-                \item Data Security
-                \item Participant Privacy
-            \end{enumerate}
-            
-            \item \textbf{Forms and Documents}
-            \begin{enumerate}[label={$\square$}]
-                \item Tutorial 
-                \item Demographic Participant Information
-                \item Consent Form \hspace{2ex} $\square$
-                Questionnaire
-                \item Compensation Form
-                \item Ishihara Plates \hspace{2ex} $\square$ Snellen Chart
-                %\item Snellen Chart
-            \end{enumerate}
-            
-            \item \textbf{Location/Environment}
-            \begin{enumerate}[label={$\square$}]
-                \item Lab \hspace{2ex} $\square$ Field 
-                \item Crowdsourcing Environment
-                %\item Field
-            \end{enumerate}
-            
-            \item \textbf{Time Frame}
-            \begin{enumerate}[label={$\square$}]
-                \item Time Slots \hspace{2ex} $\square$ Experiment Duration
-                \item Study Days
-            \end{enumerate}
-            
-            \item \textbf{Participants}
-            \begin{enumerate}[label={$\square$}]
-                \item Gender and Diversity
-                \item Number of Participants
-                \item Extrinsic Trigger
-                \item Invitation Procedure
-                \item Experience Levels
-                \item Non-Human Participants
-            \end{enumerate}
+   Mobile
+   Remote
+   Display
+   Sampling Frequency
+   Camera Resolution
+   System Stability
+   Head Movement Restriction (Bite Bar, Chin Rest)
+   Monocular
+   Binocular
+   Data Recording
 
-            \item \textbf{Preregistration}
-            \begin{enumerate}[label={$\square$}]
-                \item Repository \hspace{2ex} $\square$ Access
-                \item Data Outsourcing
-            \end{enumerate}
-            
-            \item \textbf{Pilot Study}
-            \begin{enumerate}[label={$\square$}]
-                \item Adaption Phase
-                \item Data Recording Check
-            \end{enumerate}
-        \end{enumerate} & 
-\scriptsize \vspace{-2ex}
-        \begin{enumerate}[label={$\square$}]
+Ethics Validation
+   Ethics Approval
+   Participant Consent
+   Data Security
+   Participant Privacy
+
+Forms and Documents
+   Tutorial 
+   Demographic Participant Information
+   Consent Form
+   Questionnaire
+   Compensation Form
+   Ishihara Plates
+   Snellen Chart
+               
+Location/Environment
+   Lab
+   Field
+   Crowdsourcing Environment
+
+Time Frame
+   Time Slots
+   Experiment Duration
+   Study Days
+
+Participants
+   Gender and Diversity
+   Number of Participants
+   Extrinsic Trigger
+   Invitation Procedure
+   Experience Levels
+   Non-Human Participants
+
+Preregistration
+   Repository
+   Access
+   Data Outsourcing
+
+Pilot Study
+   Adaption Phase
+   Data Recording Check
+
 
 During
 
