@@ -101,39 +101,30 @@ Pilot Study
 
 During
 
-        \item \textbf{Environment Preparation}
-        \begin{enumerate}[label={$\square$}]
-                \item Setup
-                \item Participant Orientation
-                \item Waiting Room
-                \item Natural Environment
-            \end{enumerate}
-            
-        \item \textbf{Showing Up}
-        \begin{enumerate}[label={$\square$}]
-                \item Pickup and Guiding
-                \item Operator Behavior
-                \item Number of Observers
-                \item Participant Cooperation
-            \end{enumerate}
-            
-        \item \textbf{Personal Details}
-        \begin{enumerate}[label={$\square$}]
-                \item Demographic Information
-                \item Consent Form
-                \item Native Language \hspace{2ex} $\square$ Alternative Language
-                %\item Alternative Language
-            \end{enumerate}
-            
-        \item \textbf{Adaptation}
-        \begin{enumerate}[label={$\square$}]
-                \item Study Details
-                \item Familiarity
-            \end{enumerate}
-            
-        \item \textbf{Tutorial}
-        \begin{enumerate}[label={$\square$}]
-                \item Minimal Study Information
+Environment Preparation
+   Setup
+   Participant Orientation
+   Waiting Room
+   Natural Environment
+   
+Showing Up
+   Pickup and Guiding
+   Operator Behavior
+   Number of Observers
+   Participant Cooperation
+   
+Personal Details
+   Demographic Information
+   Consent Form
+   Native Language
+   Alternative Language
+   
+Adaptation
+   Study Details
+   Familiarity
+
+Tutorial
+   Minimal Study Information
                 \item On-screen Instructions
                 \item Verbal Explanation
                 \item Clarification Questions
