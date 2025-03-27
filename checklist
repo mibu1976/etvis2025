@@ -17,37 +17,34 @@ Variables
 
 Tasks
    Task Types
-                \item Task Complexity
-                \item Task Instructions
-                \item Task Solution Time
-            \end{enumerate}
-            
-            \item \textbf{Stimuli}
-            \begin{enumerate}[label={$\square$}]
-                \item Real \hspace{2ex} $\square$ Artificial
-                %\item Artificial Stimuli
-                \item Static \hspace{2ex} $\square$ Dynamic \hspace{2ex} $\square$ Real-World
-                %\item Dynamic
-                \item Number \hspace{2ex} $\square$
-                Variation
-            \end{enumerate}
-            
-            \item \textbf{Design}
-            \begin{enumerate}[label={$\square$}]
-                \item Within Subject \hspace{2ex} $\square$  Between Subject
-                %\item Between Subject
-                \item Think Aloud \hspace{2ex} $\square$ Talk Aloud
-                %\item Talk Aloud
-                \item Experiment Blocks \hspace{2ex} $\square$ Pauses
-                \item Replication \hspace{0.8ex} $\square$ Permutation \hspace{0.8ex} $\square$ Randomization
-                %\item Randomization
-                \item Learning Effects \hspace{2ex} $\square$ Fatigue Effects
-                %\item Fatigue Effects
-            \end{enumerate}
-            
-            \item \textbf{Technology}
-           \begin{enumerate}[label={$\square$}]
-                \item Eye Tracking Device
+   Task Complexity
+   Task Instructions
+   Task Solution Time
+
+Stimuli
+   Real
+   Artificial
+   Static
+   Dynamic
+   Real-World
+   Number
+   Variation
+
+Design
+   Within Subject
+   Between Subject
+   Think Aloud
+   Talk Aloud
+   Experiment Blocks
+   Pauses
+   Replication
+   Permutation
+   Randomization
+   Learning Effects
+   Fatigue Effects
+
+Technology
+   Eye Tracking Device
                 \item Mobile \hspace{2ex} $\square$ Remote
                 %\item Remote
                 \item Display \hspace{2ex} $\square$ Sampling Frequency
