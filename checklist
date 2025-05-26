@@ -145,23 +145,22 @@ Participant Influence
 
 Calibration
    Targets
-                \item Screen-Based \hspace{2ex} $\square$ Wearable Calibration
-                \item Validation Phase
-                \item Calibration Quality
-                \item Recalibration
-                \item Display Distance \hspace{2ex} $\square$ Head Position
-                \item Lighting Condition
-                \item Eye-Physiological Issues
-                \item Eye-Anatomical Issues
-                \item Artificially Created Eye Issues
-            \end{enumerate}
-            
-        \item \textbf{Practice Run}
-        \begin{enumerate}[label={$\square$}]
-                \item Final Test
-                \item Test Data
-            \end{enumerate}
-            
+   Screen-Based
+   Wearable Calibration
+   Validation Phase
+   Calibration Quality
+   Recalibration
+   Display Distance
+   Head Position
+   Lighting Condition
+   Eye-Physiological Issues
+   Eye-Anatomical Issues
+   Artificially Created Eye Issues
+               
+Practice Run
+   Final Test
+   Test Data
+               
         \item \textbf{Experiment}
         \begin{enumerate}[label={$\square$}]
                 \item Study Progress
